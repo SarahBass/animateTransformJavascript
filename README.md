@@ -27,3 +27,5 @@ Frames    | Image Files
 > mouth- change mouth every second for mouth animations
 > 
 > object(labeled cute)- change objects that float up and down, or stay still with the body
+
+Also includes code for changing the body of the character for holiday modes! 
