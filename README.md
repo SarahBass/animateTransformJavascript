@@ -17,8 +17,13 @@ styles.css | adds formatting
 Frames    | Image Files 
 
 ## Animation groups:
+
 > body(labeled star)- move the body up and down, or stand still every minute
+> 
 > eyes- change eyes every minute
+> 
 > cheeks- change cheeks if you want to add blush effects
+> 
 > mouth- change mouth every second for mouth animations
+> 
 > object(labeled cute)- change objects that float up and down, or stay still with the body
