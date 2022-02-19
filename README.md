@@ -28,4 +28,6 @@ Frames    | Image Files not included
 > 
 > object(labeled cute)- change objects that float up and down, or stay still with the body
 
-Also includes code for changing the body of the character for holiday modes! 
+Also includes code for changing the body of the character for holiday modes! The code has 10 possible bodies for each holiday mode which it changes daily for 10 day periods. These appear when you reach your Fitbit steps goal, but you could easily remove that or change it. 
+
+It uses real time to change animations instead of Delay, so that you can run multiple things at the same time. 
