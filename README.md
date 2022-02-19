@@ -14,7 +14,7 @@ index.js  | Main Javascript Imports
 index.view | initializes JS library of resources
 widgets.defs | imports to SDK library and formats the animation
 styles.css | adds formatting
-Frames    | Image Files 
+Frames    | Image Files not included
 
 ## Animation groups:
 
