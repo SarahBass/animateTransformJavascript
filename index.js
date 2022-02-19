@@ -53,6 +53,9 @@ clock.ontick = (evt) => {
   let mins = util.zeroPad(today.getMinutes());
   let seconds = today.getSeconds();
   
+ //Get Prize from Steps Goal 
+  if (userActivity.adjusted.steps > goals.steps){goalreached = "show";}
+ 
   }
   
   /*----------------------------SHOW CLOCK END----------------------------------*/
