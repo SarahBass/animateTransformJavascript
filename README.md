@@ -1,7 +1,7 @@
 # animateTransformJavascript
 How to animate simple floating character using animateTransform
 
-<img src="https://github.com/SarahBass/animateTransformJavascript/blob/main/screenanimationrecording.gif" width="300" height="300">
+<img src="https://github.com/SarahBass/animateTransformJavascript/blob/main/screenanimationrecording.gif" width="500" height="300">
 
 In the frames files you are provided with sample frames 1-6 that I created using the free software Vectornator for Ipad.
 Change the CSS size and coordinates of the images to fit your needs. I also provided a background.jpeg example. 
