@@ -1,0 +1,20 @@
+ <!-- Animation Group called Demo -->
+  <svg>
+  <defs>
+    <symbol id="demo">
+      <g id="demogroup" transform="translate(0%,0%)" pointer-events="visible">
+        <image id="star"  class="staranimate"  />
+      <image id="eyes"  class="staranimate"  />
+      <image id="mouth"  class="staranimate"  />
+     <image id="cheeks"  class="staranimate" />
+     <image id="cute"  class="staranimate" />
+      <animateTransform attributeType="translate"
+      from="0%,0%" to="0%,-5%" begin="enable" dur="3" /> 
+      <animateTransform attributeType="translate"
+      to="0%,0%" from="0%,-5%"begin="enable" dur="3" />
+      </g>
+    </symbol>
+  </defs>
+  <svg width="100%" height="100%">
+    <use id="demoinstance" href="#demo" width="100%" height="100%" />
+  </svg>
