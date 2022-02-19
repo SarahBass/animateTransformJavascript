@@ -18,7 +18,7 @@ Frames    | Image Files not included
 
 ## Animation groups:
 
-> body(labeled star)- move the body up and down, or stand still every minute
+> body(star)- move the body up and down, or stand still every minute
 > 
 > eyes- change eyes every minute
 > 
@@ -26,7 +26,7 @@ Frames    | Image Files not included
 > 
 > mouth- change mouth every second for mouth animations
 > 
-> object(labeled cute)- change objects that float up and down, or stay still with the body
+> object(cute)- change objects that float up and down, or stay still with the body
 
 Also includes code for changing the body of the character for holiday modes! The code has 10 possible bodies for each holiday mode which it changes daily for 10 day periods. These appear when you reach your Fitbit steps goal, but you could easily remove that or change it. 
 
